@@ -27,7 +27,7 @@ ModelScale 0.2
 //LoadIntoGun 1
 
 //Information
-Description Penbar Urban Police
+Description City Forces
 ShowDamage true
 ShowReloadTime true
 

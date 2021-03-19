@@ -50,8 +50,8 @@ AllowGripAttachments false
 
 //Owner DerpiWolf
 
-Description Ambircon Technologies
-//Show in description
+Description TOPAZ Factory. Ammo Type: SteamRifle Magazine.
+Show in description
 ShowReloadTime true
 ShowAccuracy true
 ShowDamage true

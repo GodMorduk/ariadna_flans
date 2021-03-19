@@ -50,7 +50,7 @@ AllowGripAttachments false
 
 //Owner DerpiWolf
 
-Description Penbar Urban Police
+Description City Forces
 //Show in description
 ShowReloadTime true
 ShowAccuracy true

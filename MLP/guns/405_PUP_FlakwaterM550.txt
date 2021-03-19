@@ -52,7 +52,7 @@ AllowGripAttachments false
 
 //Owner DerpiWolf
 
-Description Penbar Urban Police
+Description City Forces. Ammo Type: Pellet Shell, AP Shell, Tungsten Shell.
 //Show in description
 ShowReloadTime true
 ShowAccuracy true

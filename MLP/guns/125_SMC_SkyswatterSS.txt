@@ -61,6 +61,7 @@ AllowScopeAttachments false
 
 //Owner DerpiWolf
 
+Description SkyMare Corporation. Ammo Type: Skyswatter Rocket, Skyswatter MobTrack Rocket.
 //Show in description
 ShowReloadTime true
 ShowAccuracy true

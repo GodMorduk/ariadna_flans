@@ -49,7 +49,7 @@ AllowGripAttachments false
 
 //Owner DerpiWolf
 
-Description Lupine Military
+Description PMC "Obsidian Dogs"
 //Show in description
 ShowReloadTime true
 ShowAccuracy true

@@ -53,7 +53,7 @@ AllowGripAttachments false
 
 //Owner DerpiWolf
 
-Description SkyMare Corporation
+Description SkyMare Corporation. Ammo Type: Pellet Shell, HE Shell, Shock Shell, AP Shell.
 //Show in description
 ShowReloadTime true
 ShowAccuracy true

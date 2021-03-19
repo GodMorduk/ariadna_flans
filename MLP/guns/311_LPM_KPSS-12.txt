@@ -54,7 +54,7 @@ AllowBarrelAttachments true
 
 //Owner DerpiWolf
 
-Description Lupine Military
+Description PMC "Obsidian Dogs". Ammo Type: Pellet Shell, Poison Shell, Incendiary Shell.
 //Show in description
 ShowReloadTime true
 ShowAccuracy true

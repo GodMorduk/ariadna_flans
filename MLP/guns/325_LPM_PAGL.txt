@@ -55,7 +55,7 @@ AllowGripAttachments false
 
 //Owner DerpiWolf
 
-Description Lupine Military
+Description PMC "Obsidian Dogs". Ammo Type: 40mm Smoke, 40mm Gas.
 //Show in description
 ShowReloadTime true
 ShowAccuracy true

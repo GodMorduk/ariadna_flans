@@ -27,7 +27,7 @@ ModelScale 0.2
 //LoadIntoGun 1
 
 //Information
-Description Lupine Military
+Description PMC "Obsidian Dogs"
 ShowDamage true
 ShowReloadTime true
 

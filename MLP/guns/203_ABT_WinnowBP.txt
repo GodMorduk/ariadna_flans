@@ -52,7 +52,7 @@ AllowBarrelAttachments false
 
 //Owner DerpiWolf
 
-Description Ambircon Technologies
+Description TOPAZ Factory
 //Show in description
 ShowReloadTime true
 ShowAccuracy true
